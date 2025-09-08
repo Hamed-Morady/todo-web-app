@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ad939a2.css",
+    "main.js": "/static/js/main.71f7587e.js",
+    "static/media/pexels-ivan-samkov-4458554.jpg": "/static/media/pexels-ivan-samkov-4458554.26e61d455cb09c5a7201.jpg",
+    "static/media/pexels-cottonbro-5990265.jpg": "/static/media/pexels-cottonbro-5990265.467f4fd4a8fbee8b7a01.jpg",
+    "static/media/pexels-michaela-st-3448542-20502052.jpg": "/static/media/pexels-michaela-st-3448542-20502052.fd3b845951791d05b9ed.jpg",
+    "index.html": "/index.html",
+    "main.5ad939a2.css.map": "/static/css/main.5ad939a2.css.map",
+    "main.71f7587e.js.map": "/static/js/main.71f7587e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5ad939a2.css",
+    "static/js/main.71f7587e.js"
+  ]
+}
