@@ -6,7 +6,7 @@ This project provides task management features with user authentication (registe
 ## Demo
 
 You can try the live demo here:  
-[**Live Demo Link**](https://your-demo-link.com) *(Coming soon)*
+[**Live Demo Link**](https://68c71aeb613446da1f2d7274--todo-web-app-2030.netlify.app/) 
 
 ## Features
 
